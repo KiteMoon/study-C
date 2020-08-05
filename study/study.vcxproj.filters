@@ -21,7 +21,10 @@
     <ClCompile Include="Hello World.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="源1.cpp">
+    <ClCompile Include="对变量进行定义.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="标识符命名相关.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

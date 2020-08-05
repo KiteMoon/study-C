@@ -141,7 +141,8 @@
   <ItemGroup>
     <ClCompile Include="Hello World.cpp" />
     <ClCompile Include="变量.cpp" />
-    <ClCompile Include="源1.cpp" />
+    <ClCompile Include="对变量进行定义.cpp" />
+    <ClCompile Include="标识符命名相关.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
