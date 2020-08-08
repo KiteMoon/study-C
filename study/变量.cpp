@@ -8,7 +8,7 @@ using namespace std;
 //2：const修饰的变量 使用const + 数据类型 + = + 数值即可（其实就是const+变量）（但是他是一个常量）
 const int IDcard = 13;
 //常量不可以更改数值，但是可以提前定义
-int	main() {
+int	maindd() {
 	cout << "一周有几天" << Day << endl;
 	cout << "你的ID卡编号为：" << IDcard;
 	system("pause");
