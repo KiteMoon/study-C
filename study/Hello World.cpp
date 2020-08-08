@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 
-int	mainndd()
+
+int	main()
 {
 	cout << "hello world" << endl;
 	system("pause");

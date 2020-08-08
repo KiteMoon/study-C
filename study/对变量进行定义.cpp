@@ -6,7 +6,7 @@
 using namespace std;
 
 
-int maid() {
+int main() {
 	int IDname = 10;
 	cout << IDname << endl;
 	system("pause");

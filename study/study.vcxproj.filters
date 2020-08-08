@@ -15,19 +15,25 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="变量.cpp">
+    <ClCompile Include="sizeoff关键字.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="Hello World.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="对变量进行定义.cpp">
+    <ClCompile Include="变量.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="标识符命名相关.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="对变量进行定义.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
     <ClCompile Include="数据类型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="浮点型与科学计数法.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

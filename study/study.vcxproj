@@ -140,10 +140,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Hello World.cpp" />
+    <ClCompile Include="sizeoff关键字.cpp" />
     <ClCompile Include="变量.cpp" />
     <ClCompile Include="对变量进行定义.cpp" />
     <ClCompile Include="数据类型.cpp" />
     <ClCompile Include="标识符命名相关.cpp" />
+    <ClCompile Include="浮点型与科学计数法.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
