@@ -54,7 +54,7 @@
     <ClCompile Include="逻辑预算-与.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="逻辑运算符-或.cpp.cpp">
+    <ClCompile Include="逻辑运算符-或.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

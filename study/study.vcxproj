@@ -149,7 +149,7 @@
     <ClCompile Include="数据类型.cpp" />
     <ClCompile Include="标识符命名相关.cpp" />
     <ClCompile Include="浮点型与科学计数法.cpp" />
-    <ClCompile Include="逻辑运算符-或.cpp.cpp" />
+    <ClCompile Include="逻辑运算符-或.cpp" />
     <ClCompile Include="逻辑预算-与.cpp" />
     <ClCompile Include="转义字符.cpp" />
     <ClCompile Include="运算符.cpp" />
