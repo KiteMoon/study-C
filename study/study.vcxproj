@@ -142,6 +142,7 @@
     <ClCompile Include="Hello World.cpp" />
     <ClCompile Include="sizeoff关键字.cpp" />
     <ClCompile Include="变量.cpp" />
+    <ClCompile Include="多行if判断.cpp" />
     <ClCompile Include="字符串类型.cpp" />
     <ClCompile Include="字符型.cpp" />
     <ClCompile Include="对变量进行定义.cpp" />
