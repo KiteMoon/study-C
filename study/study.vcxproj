@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Hello World.cpp" />
+    <ClCompile Include="if多重嵌套.cpp" />
     <ClCompile Include="sizeoff关键字.cpp" />
     <ClCompile Include="变量.cpp" />
     <ClCompile Include="if相关.cpp" />
