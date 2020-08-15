@@ -63,5 +63,17 @@
     <ClCompile Include="if多重嵌套.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="留样.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="三目.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="switch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="猜数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
