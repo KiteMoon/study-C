@@ -75,5 +75,8 @@
     <ClCompile Include="猜数字.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="do-while.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
